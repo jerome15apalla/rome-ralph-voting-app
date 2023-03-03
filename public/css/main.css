@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+#login {
+    position: relative;
+    text-shadow: -1px 1 white;
+    font-weight: normal;
+    font-family: 'Fredoka One', cursive;
+    position: absolute;
+    top: 25%;
+}
+#login-box{
+    margin-top: 300px;
+    margin-left: -100px;
+}
+#login-tab {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-image: url(https://cdn.discordapp.com/attachments/846043452801679360/980362461582622760/Untitled_design.png);
+    background-size: cover;
+}
+#registration {
+    position: relative;
+    text-shadow: -1px 1 white;
+    text-emphasis: solid;
+    font-family: 'Fredoka One', cursive;
+    position: absolute;
+    top: 5%;
+}
+body {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-image: url(https://cdn.discordapp.com/attachments/726809892526227538/980653148777631754/Untitled_design_1.png);
+    height: 100%;
+    background-repeat: repeat;
+    background-size: 100%;
+    filter: grayscale(10%);
+}
+#home {
+    background-image: url(../images/image.jpeg);
+    background-repeat: repeat;
+    background-size: 100%;
+}
